@@ -5,4 +5,4 @@ def X(v,w):
   else:
     print('It is head')
 v,w = (2.4,200*2*np.pi)
-X(v,w)
+X(v,w) ## It is head
